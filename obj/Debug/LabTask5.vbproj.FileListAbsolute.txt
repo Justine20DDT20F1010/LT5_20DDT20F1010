@@ -1,0 +1,56 @@
+C:\Users\Yeo\Desktop\MyStudy\Semester 4 Sesi 2 2021-2022\DFP40233 VISUAL BASIC PROGRAMMING\Assignment\LabTask5\LabTask5\bin\Debug\LabTask5.exe.config
+C:\Users\Yeo\Desktop\MyStudy\Semester 4 Sesi 2 2021-2022\DFP40233 VISUAL BASIC PROGRAMMING\Assignment\LabTask5\LabTask5\bin\Debug\LabTask5.exe
+C:\Users\Yeo\Desktop\MyStudy\Semester 4 Sesi 2 2021-2022\DFP40233 VISUAL BASIC PROGRAMMING\Assignment\LabTask5\LabTask5\bin\Debug\LabTask5.pdb
+C:\Users\Yeo\Desktop\MyStudy\Semester 4 Sesi 2 2021-2022\DFP40233 VISUAL BASIC PROGRAMMING\Assignment\LabTask5\LabTask5\bin\Debug\LabTask5.xml
+C:\Users\Yeo\Desktop\MyStudy\Semester 4 Sesi 2 2021-2022\DFP40233 VISUAL BASIC PROGRAMMING\Assignment\LabTask5\LabTask5\obj\Debug\LabTask5.vbprojResolveAssemblyReference.cache
+C:\Users\Yeo\Desktop\MyStudy\Semester 4 Sesi 2 2021-2022\DFP40233 VISUAL BASIC PROGRAMMING\Assignment\LabTask5\LabTask5\obj\Debug\LabTask5.Contain.resources
+C:\Users\Yeo\Desktop\MyStudy\Semester 4 Sesi 2 2021-2022\DFP40233 VISUAL BASIC PROGRAMMING\Assignment\LabTask5\LabTask5\obj\Debug\LabTask5.Form1.resources
+C:\Users\Yeo\Desktop\MyStudy\Semester 4 Sesi 2 2021-2022\DFP40233 VISUAL BASIC PROGRAMMING\Assignment\LabTask5\LabTask5\obj\Debug\LabTask5.IndexOf.resources
+C:\Users\Yeo\Desktop\MyStudy\Semester 4 Sesi 2 2021-2022\DFP40233 VISUAL BASIC PROGRAMMING\Assignment\LabTask5\LabTask5\obj\Debug\LabTask5.Insert.resources
+C:\Users\Yeo\Desktop\MyStudy\Semester 4 Sesi 2 2021-2022\DFP40233 VISUAL BASIC PROGRAMMING\Assignment\LabTask5\LabTask5\obj\Debug\LabTask5.Length.resources
+C:\Users\Yeo\Desktop\MyStudy\Semester 4 Sesi 2 2021-2022\DFP40233 VISUAL BASIC PROGRAMMING\Assignment\LabTask5\LabTask5\obj\Debug\LabTask5.Resources.resources
+C:\Users\Yeo\Desktop\MyStudy\Semester 4 Sesi 2 2021-2022\DFP40233 VISUAL BASIC PROGRAMMING\Assignment\LabTask5\LabTask5\obj\Debug\LabTask5.PadLeft.resources
+C:\Users\Yeo\Desktop\MyStudy\Semester 4 Sesi 2 2021-2022\DFP40233 VISUAL BASIC PROGRAMMING\Assignment\LabTask5\LabTask5\obj\Debug\LabTask5.Remove.resources
+C:\Users\Yeo\Desktop\MyStudy\Semester 4 Sesi 2 2021-2022\DFP40233 VISUAL BASIC PROGRAMMING\Assignment\LabTask5\LabTask5\obj\Debug\LabTask5.SubString.resources
+C:\Users\Yeo\Desktop\MyStudy\Semester 4 Sesi 2 2021-2022\DFP40233 VISUAL BASIC PROGRAMMING\Assignment\LabTask5\LabTask5\obj\Debug\LabTask5.vbproj.GenerateResource.Cache
+C:\Users\Yeo\Desktop\MyStudy\Semester 4 Sesi 2 2021-2022\DFP40233 VISUAL BASIC PROGRAMMING\Assignment\LabTask5\LabTask5\obj\Debug\LabTask5.exe
+C:\Users\Yeo\Desktop\MyStudy\Semester 4 Sesi 2 2021-2022\DFP40233 VISUAL BASIC PROGRAMMING\Assignment\LabTask5\LabTask5\obj\Debug\LabTask5.xml
+C:\Users\Yeo\Desktop\MyStudy\Semester 4 Sesi 2 2021-2022\DFP40233 VISUAL BASIC PROGRAMMING\Assignment\LabTask5\LabTask5\obj\Debug\LabTask5.pdb
+C:\Users\asus\Pictures\Assigment Visual Programming\DFP40233 VISUAL BASIC PROGRAMMING\Assignment\LabTask5\LabTask5\bin\Debug\LabTask5.exe.config
+C:\Users\asus\Pictures\Assigment Visual Programming\DFP40233 VISUAL BASIC PROGRAMMING\Assignment\LabTask5\LabTask5\bin\Debug\LabTask5.exe
+C:\Users\asus\Pictures\Assigment Visual Programming\DFP40233 VISUAL BASIC PROGRAMMING\Assignment\LabTask5\LabTask5\bin\Debug\LabTask5.pdb
+C:\Users\asus\Pictures\Assigment Visual Programming\DFP40233 VISUAL BASIC PROGRAMMING\Assignment\LabTask5\LabTask5\bin\Debug\LabTask5.xml
+C:\Users\asus\Pictures\Assigment Visual Programming\DFP40233 VISUAL BASIC PROGRAMMING\Assignment\LabTask5\LabTask5\obj\Debug\LabTask5.vbproj.AssemblyReference.cache
+C:\Users\asus\Pictures\Assigment Visual Programming\DFP40233 VISUAL BASIC PROGRAMMING\Assignment\LabTask5\LabTask5\obj\Debug\LabTask5.Contain.resources
+C:\Users\asus\Pictures\Assigment Visual Programming\DFP40233 VISUAL BASIC PROGRAMMING\Assignment\LabTask5\LabTask5\obj\Debug\LabTask5.Form1.resources
+C:\Users\asus\Pictures\Assigment Visual Programming\DFP40233 VISUAL BASIC PROGRAMMING\Assignment\LabTask5\LabTask5\obj\Debug\LabTask5.IndexOf.resources
+C:\Users\asus\Pictures\Assigment Visual Programming\DFP40233 VISUAL BASIC PROGRAMMING\Assignment\LabTask5\LabTask5\obj\Debug\LabTask5.Insert.resources
+C:\Users\asus\Pictures\Assigment Visual Programming\DFP40233 VISUAL BASIC PROGRAMMING\Assignment\LabTask5\LabTask5\obj\Debug\LabTask5.Length.resources
+C:\Users\asus\Pictures\Assigment Visual Programming\DFP40233 VISUAL BASIC PROGRAMMING\Assignment\LabTask5\LabTask5\obj\Debug\LabTask5.Resources.resources
+C:\Users\asus\Pictures\Assigment Visual Programming\DFP40233 VISUAL BASIC PROGRAMMING\Assignment\LabTask5\LabTask5\obj\Debug\LabTask5.PadLeft.resources
+C:\Users\asus\Pictures\Assigment Visual Programming\DFP40233 VISUAL BASIC PROGRAMMING\Assignment\LabTask5\LabTask5\obj\Debug\LabTask5.Remove.resources
+C:\Users\asus\Pictures\Assigment Visual Programming\DFP40233 VISUAL BASIC PROGRAMMING\Assignment\LabTask5\LabTask5\obj\Debug\LabTask5.SubString.resources
+C:\Users\asus\Pictures\Assigment Visual Programming\DFP40233 VISUAL BASIC PROGRAMMING\Assignment\LabTask5\LabTask5\obj\Debug\LabTask5.vbproj.GenerateResource.cache
+C:\Users\asus\Pictures\Assigment Visual Programming\DFP40233 VISUAL BASIC PROGRAMMING\Assignment\LabTask5\LabTask5\obj\Debug\LabTask5.vbproj.CoreCompileInputs.cache
+C:\Users\asus\Pictures\Assigment Visual Programming\DFP40233 VISUAL BASIC PROGRAMMING\Assignment\LabTask5\LabTask5\obj\Debug\LabTask5.exe
+C:\Users\asus\Pictures\Assigment Visual Programming\DFP40233 VISUAL BASIC PROGRAMMING\Assignment\LabTask5\LabTask5\obj\Debug\LabTask5.xml
+C:\Users\asus\Pictures\Assigment Visual Programming\DFP40233 VISUAL BASIC PROGRAMMING\Assignment\LabTask5\LabTask5\obj\Debug\LabTask5.pdb
+C:\Users\asus\Pictures\Assigment Visual Programming\Assessment\LabTask5_20DDT20F1010\LabTask5\LabTask5\bin\Debug\LabTask5.exe.config
+C:\Users\asus\Pictures\Assigment Visual Programming\Assessment\LabTask5_20DDT20F1010\LabTask5\LabTask5\bin\Debug\LabTask5.exe
+C:\Users\asus\Pictures\Assigment Visual Programming\Assessment\LabTask5_20DDT20F1010\LabTask5\LabTask5\bin\Debug\LabTask5.pdb
+C:\Users\asus\Pictures\Assigment Visual Programming\Assessment\LabTask5_20DDT20F1010\LabTask5\LabTask5\bin\Debug\LabTask5.xml
+C:\Users\asus\Pictures\Assigment Visual Programming\Assessment\LabTask5_20DDT20F1010\LabTask5\LabTask5\obj\Debug\LabTask5.vbproj.AssemblyReference.cache
+C:\Users\asus\Pictures\Assigment Visual Programming\Assessment\LabTask5_20DDT20F1010\LabTask5\LabTask5\obj\Debug\LabTask5.Contain.resources
+C:\Users\asus\Pictures\Assigment Visual Programming\Assessment\LabTask5_20DDT20F1010\LabTask5\LabTask5\obj\Debug\LabTask5.Form1.resources
+C:\Users\asus\Pictures\Assigment Visual Programming\Assessment\LabTask5_20DDT20F1010\LabTask5\LabTask5\obj\Debug\LabTask5.IndexOf.resources
+C:\Users\asus\Pictures\Assigment Visual Programming\Assessment\LabTask5_20DDT20F1010\LabTask5\LabTask5\obj\Debug\LabTask5.Insert.resources
+C:\Users\asus\Pictures\Assigment Visual Programming\Assessment\LabTask5_20DDT20F1010\LabTask5\LabTask5\obj\Debug\LabTask5.Length.resources
+C:\Users\asus\Pictures\Assigment Visual Programming\Assessment\LabTask5_20DDT20F1010\LabTask5\LabTask5\obj\Debug\LabTask5.Resources.resources
+C:\Users\asus\Pictures\Assigment Visual Programming\Assessment\LabTask5_20DDT20F1010\LabTask5\LabTask5\obj\Debug\LabTask5.PadLeft.resources
+C:\Users\asus\Pictures\Assigment Visual Programming\Assessment\LabTask5_20DDT20F1010\LabTask5\LabTask5\obj\Debug\LabTask5.Remove.resources
+C:\Users\asus\Pictures\Assigment Visual Programming\Assessment\LabTask5_20DDT20F1010\LabTask5\LabTask5\obj\Debug\LabTask5.SubString.resources
+C:\Users\asus\Pictures\Assigment Visual Programming\Assessment\LabTask5_20DDT20F1010\LabTask5\LabTask5\obj\Debug\LabTask5.vbproj.GenerateResource.cache
+C:\Users\asus\Pictures\Assigment Visual Programming\Assessment\LabTask5_20DDT20F1010\LabTask5\LabTask5\obj\Debug\LabTask5.vbproj.CoreCompileInputs.cache
+C:\Users\asus\Pictures\Assigment Visual Programming\Assessment\LabTask5_20DDT20F1010\LabTask5\LabTask5\obj\Debug\LabTask5.exe
+C:\Users\asus\Pictures\Assigment Visual Programming\Assessment\LabTask5_20DDT20F1010\LabTask5\LabTask5\obj\Debug\LabTask5.xml
+C:\Users\asus\Pictures\Assigment Visual Programming\Assessment\LabTask5_20DDT20F1010\LabTask5\LabTask5\obj\Debug\LabTask5.pdb
